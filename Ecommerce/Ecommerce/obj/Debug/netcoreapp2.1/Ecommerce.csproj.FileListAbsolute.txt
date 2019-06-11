@@ -1,0 +1,14 @@
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\bin\Debug\netcoreapp2.1\Ecommerce.deps.json
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\bin\Debug\netcoreapp2.1\Ecommerce.runtimeconfig.json
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\bin\Debug\netcoreapp2.1\Ecommerce.runtimeconfig.dev.json
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\bin\Debug\netcoreapp2.1\Ecommerce.dll
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.RazorAssemblyInfo.cache
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.RazorAssemblyInfo.cs
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.AssemblyInfoInputs.cache
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.AssemblyInfo.cs
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.RazorTargetAssemblyInfo.cache
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\bin\Debug\netcoreapp2.1\Ecommerce.pdb
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.dll
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.pdb
+D:\PROJECTS\Project2_React_Ecommerce\Server\Ecommerce\Ecommerce\obj\Debug\netcoreapp2.1\Ecommerce.csprojAssemblyReference.cache
